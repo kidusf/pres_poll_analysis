@@ -17,7 +17,7 @@ When Option 1 is selected, it will prompt the user for a state and give a statis
 
 When Option 2 is selected, it will plot the National Data and give a statistical summary:
 
-![National](https://github.com/kidusf/pres_poll_analysis/blob/main/NationalData.PNG)
+![National](https://github.com/kidusf/pres_poll_analysis/blob/main/FilteredNational.PNG)
 
 
 ![Sum](https://github.com/kidusf/pres_poll_analysis/blob/main/National.PNG)
